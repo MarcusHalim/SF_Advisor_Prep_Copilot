@@ -1,0 +1,702 @@
+[
+    {
+        "Note_ID": "6c53a6ac-d6d7-4496-b429-5d101ea4fc8e",
+        "Client_ID": "CLI_02895",
+        "Advisor_ID": "ADV_009",
+        "Interaction_Date": "2026-09-11",
+        "Note_Text": "Met with Chad Hurley today. Discussed their target retirement in 2054.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "0f65f426-963e-44fe-86c1-25ba95c1984e",
+        "Client_ID": "CLI_02562",
+        "Advisor_ID": "ADV_033",
+        "Interaction_Date": "2026-03-28",
+        "Note_Text": "Met with Bonnie Yang today. Discussed their target retirement in 2051.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "caa00195-aaca-4469-94be-f39a32503b3e",
+        "Client_ID": "CLI_03680",
+        "Advisor_ID": "ADV_019",
+        "Interaction_Date": "2026-03-02",
+        "Note_Text": "Met with Logan Colon today. Discussed their target retirement in 2033.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "e08763af-eee3-4571-b8ad-2217901abe92",
+        "Client_ID": "CLI_03554",
+        "Advisor_ID": "ADV_023",
+        "Interaction_Date": "2026-06-05",
+        "Note_Text": "Met with Joshua Miller today. Discussed their target retirement in 2045.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "a23a58fb-b15f-4d35-a527-f6f8e291d072",
+        "Client_ID": "CLI_02100",
+        "Advisor_ID": "ADV_019",
+        "Interaction_Date": "2026-04-28",
+        "Note_Text": "Met with Kelly Turner today. Discussed their target retirement in 2043.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "75b1b9cf-8c60-4790-a749-d379ef3eb3ff",
+        "Client_ID": "CLI_02605",
+        "Advisor_ID": "ADV_001",
+        "Interaction_Date": "2026-08-11",
+        "Note_Text": "Met with Christopher Baxter today. Discussed their target retirement in 2051.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "7b26316d-b1a4-4159-9ecd-32ce044bdd42",
+        "Client_ID": "CLI_02610",
+        "Advisor_ID": "ADV_005",
+        "Interaction_Date": "2026-03-04",
+        "Note_Text": "Met with Tina Dougherty today. Discussed their target retirement in 2053.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "ebd24714-9c7c-4d59-93bc-32115513f755",
+        "Client_ID": "CLI_00667",
+        "Advisor_ID": "ADV_014",
+        "Interaction_Date": "2026-07-19",
+        "Note_Text": "Met with Amy Davies today. Discussed their target retirement in 2052.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "47a1aff8-1baf-495d-a6bd-f9df2de66c2c",
+        "Client_ID": "CLI_03663",
+        "Advisor_ID": "ADV_005",
+        "Interaction_Date": "2026-05-18",
+        "Note_Text": "Met with Marie Roach today. Discussed their target retirement in 2048.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "dc4f14e6-146c-4fbd-ac4a-ce9762bc8cf8",
+        "Client_ID": "CLI_04566",
+        "Advisor_ID": "ADV_043",
+        "Interaction_Date": "2026-06-21",
+        "Note_Text": "Met with Ethan Coleman today. Discussed their target retirement in 2042.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "9a6a3550-107b-4f5a-9b65-9e2629fc6961",
+        "Client_ID": "CLI_01003",
+        "Advisor_ID": "ADV_042",
+        "Interaction_Date": "2026-01-24",
+        "Note_Text": "Met with Amy Cervantes today. Discussed their target retirement in 2041.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "7e4d3cf6-b03a-4e67-a976-82a982f3fe3f",
+        "Client_ID": "CLI_02238",
+        "Advisor_ID": "ADV_011",
+        "Interaction_Date": "2026-02-11",
+        "Note_Text": "Met with Deborah Roberson today. Discussed their target retirement in 2038.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "b8cdaee2-ff08-4796-a1eb-8875f7b53d83",
+        "Client_ID": "CLI_00817",
+        "Advisor_ID": "ADV_027",
+        "Interaction_Date": "2026-06-16",
+        "Note_Text": "Met with Wayne Williams today. Discussed their target retirement in 2044.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "dbe398fc-3488-483a-a5b1-c8f136a71503",
+        "Client_ID": "CLI_03840",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2026-08-31",
+        "Note_Text": "Met with Eric Nielsen today. Discussed their target retirement in 2036.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "987b3f85-15ca-4a0d-bd79-eaeb3fe365b6",
+        "Client_ID": "CLI_03191",
+        "Advisor_ID": "ADV_016",
+        "Interaction_Date": "2026-06-23",
+        "Note_Text": "Met with Barbara Fields today. Discussed their target retirement in 2056.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "cb728958-3d69-4731-b389-57983fc39edc",
+        "Client_ID": "CLI_04089",
+        "Advisor_ID": "ADV_042",
+        "Interaction_Date": "2026-04-27",
+        "Note_Text": "Met with Samuel Welch today. Discussed their target retirement in 2050.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "f4e6ff37-aacb-4070-aa8a-771dc8e83950",
+        "Client_ID": "CLI_02172",
+        "Advisor_ID": "ADV_005",
+        "Interaction_Date": "2026-01-28",
+        "Note_Text": "Met with William Cunningham today. Discussed their target retirement in 2032.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "9bc54abc-e2b0-4ec0-873a-7bc26299e5f4",
+        "Client_ID": "CLI_00629",
+        "Advisor_ID": "ADV_004",
+        "Interaction_Date": "2026-09-25",
+        "Note_Text": "Met with Marcus Marshall today. Discussed their target retirement in 2045.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "3e4fa283-e7bb-432c-bc74-2097313c52ff",
+        "Client_ID": "CLI_02067",
+        "Advisor_ID": "ADV_011",
+        "Interaction_Date": "2026-07-23",
+        "Note_Text": "Met with Gloria Bray today. Discussed their target retirement in 2037.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "8d6e70a4-d94a-4a9e-9c48-309922649431",
+        "Client_ID": "CLI_00614",
+        "Advisor_ID": "ADV_006",
+        "Interaction_Date": "2026-09-28",
+        "Note_Text": "Met with Rachel Le today. Discussed their target retirement in 2055.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "a91039ee-0f3c-47d3-9bf4-fd8cf8c937ba",
+        "Client_ID": "CLI_03440",
+        "Advisor_ID": "ADV_046",
+        "Interaction_Date": "2026-09-06",
+        "Note_Text": "Met with Christopher Davis today. Discussed their target retirement in 2054.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "59b44240-fa93-4a1d-915b-26321d455611",
+        "Client_ID": "CLI_02024",
+        "Advisor_ID": "ADV_005",
+        "Interaction_Date": "2026-06-20",
+        "Note_Text": "Met with Nicholas Parker today. Discussed their target retirement in 2054.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "a6683ca1-5a8e-40e8-bfb2-3c206fdbf892",
+        "Client_ID": "CLI_01680",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2026-10-01",
+        "Note_Text": "Met with Kim Larson today. Discussed their target retirement in 2054.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "b7e2236d-1e97-4664-97f4-9cb304f17606",
+        "Client_ID": "CLI_03445",
+        "Advisor_ID": "ADV_048",
+        "Interaction_Date": "2026-07-26",
+        "Note_Text": "Met with Julie Martinez today. Discussed their target retirement in 2050.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "a7e5c81a-3d1c-4200-89f5-3c626ab5173c",
+        "Client_ID": "CLI_02196",
+        "Advisor_ID": "ADV_020",
+        "Interaction_Date": "2025-12-02",
+        "Note_Text": "Met with Lisa Schneider today. Discussed their target retirement in nan. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "bc94249a-f5fe-4a73-8ec6-bbcc4e097c5b",
+        "Client_ID": "CLI_04405",
+        "Advisor_ID": "ADV_048",
+        "Interaction_Date": "2026-03-06",
+        "Note_Text": "Met with Stephanie Carroll today. Discussed their target retirement in 2048.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "99c68c78-9b37-4d72-884e-569b41a592ca",
+        "Client_ID": "CLI_04431",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2026-09-30",
+        "Note_Text": "Met with Richard Burke today. Discussed their target retirement in 2038.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "97effb13-64b8-4222-9d90-476bb588cebb",
+        "Client_ID": "CLI_03035",
+        "Advisor_ID": "ADV_015",
+        "Interaction_Date": "2025-10-23",
+        "Note_Text": "Met with Justin Cervantes today. Discussed their target retirement in 2037.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "2aee707f-2a80-4352-9762-0c15642f1a13",
+        "Client_ID": "CLI_00050",
+        "Advisor_ID": "ADV_011",
+        "Interaction_Date": "2026-04-02",
+        "Note_Text": "Met with John Santana today. Discussed their target retirement in 2042.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "fb14a42b-3f0d-46c4-8db6-7ab30e952724",
+        "Client_ID": "CLI_01450",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2026-04-21",
+        "Note_Text": "Met with Carlos Miller today. Discussed their target retirement in 2037.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "4afdaca6-f536-4f9e-938f-995cf91701ef",
+        "Client_ID": "CLI_01535",
+        "Advisor_ID": "ADV_019",
+        "Interaction_Date": "2025-11-12",
+        "Note_Text": "Met with Alisha Rasmussen today. Discussed their target retirement in 2049.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "ff353ea8-ec23-4e50-870c-666a10f6c3a9",
+        "Client_ID": "CLI_00301",
+        "Advisor_ID": "ADV_005",
+        "Interaction_Date": "2026-02-21",
+        "Note_Text": "Met with Jason Beck today. Discussed their target retirement in 2047.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "46cd12d6-4a5c-4c58-aab5-9bef6baf4eff",
+        "Client_ID": "CLI_00645",
+        "Advisor_ID": "ADV_006",
+        "Interaction_Date": "2026-08-13",
+        "Note_Text": "Met with Michael Mckenzie today. Discussed their target retirement in 2034.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "755dff50-aba0-40aa-b9c2-e4105cf0704d",
+        "Client_ID": "CLI_04092",
+        "Advisor_ID": "ADV_017",
+        "Interaction_Date": "2025-12-04",
+        "Note_Text": "Met with Charles Jones today. Discussed their target retirement in 2054.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "05886146-fde4-404a-8e0f-e56a00e5a885",
+        "Client_ID": "CLI_02728",
+        "Advisor_ID": "ADV_012",
+        "Interaction_Date": "2026-08-14",
+        "Note_Text": "Met with Joanna Bradshaw today. Discussed their target retirement in 2043.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "83f26deb-aa1d-4df2-b637-06c5048ec5f6",
+        "Client_ID": "CLI_00150",
+        "Advisor_ID": "ADV_015",
+        "Interaction_Date": "2025-10-27",
+        "Note_Text": "Met with Mrs. Brittany Ryan MD today. Discussed their target retirement in 2046.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "5be39434-9fe5-4238-892f-7c4d5b11f558",
+        "Client_ID": "CLI_00559",
+        "Advisor_ID": "ADV_035",
+        "Interaction_Date": "2026-01-20",
+        "Note_Text": "Met with Nathan Payne today. Discussed their target retirement in 2052.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "36947cb8-2eab-46d1-95ec-0533806ce295",
+        "Client_ID": "CLI_01972",
+        "Advisor_ID": "ADV_041",
+        "Interaction_Date": "2025-11-13",
+        "Note_Text": "Met with Linda Parker today. Discussed their target retirement in 2051.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "854c8906-9b96-4898-9742-81b689f3921c",
+        "Client_ID": "CLI_00981",
+        "Advisor_ID": "ADV_017",
+        "Interaction_Date": "2025-12-20",
+        "Note_Text": "Met with Karen Gomez today. Discussed their target retirement in 2033.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "ddae12cf-4ce1-4092-a4d1-2a8a21fc81a5",
+        "Client_ID": "CLI_02616",
+        "Advisor_ID": "ADV_006",
+        "Interaction_Date": "2025-12-09",
+        "Note_Text": "Met with Joseph Smith today. Discussed their target retirement in 2032.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "35d83c72-70cf-49c8-97f8-7b67421816f4",
+        "Client_ID": "CLI_02460",
+        "Advisor_ID": "ADV_019",
+        "Interaction_Date": "2026-04-25",
+        "Note_Text": "Met with Teresa Ford today. Discussed their target retirement in 2048.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "6a2e6a01-1070-4d4a-a5b5-30836b41f946",
+        "Client_ID": "CLI_00462",
+        "Advisor_ID": "ADV_031",
+        "Interaction_Date": "2026-07-19",
+        "Note_Text": "Met with Heather Green today. Discussed their target retirement in 2041.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "77e2cd23-081e-43e2-9b5d-f525136ca698",
+        "Client_ID": "CLI_00006",
+        "Advisor_ID": "ADV_009",
+        "Interaction_Date": "2026-05-26",
+        "Note_Text": "Met with Nicole Brown today. Discussed their target retirement in 2046.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "f52b1782-581e-40a2-b9b6-97aead46ca22",
+        "Client_ID": "CLI_00220",
+        "Advisor_ID": "ADV_042",
+        "Interaction_Date": "2025-10-14",
+        "Note_Text": "Met with Andrea Decker today. Discussed their target retirement in 2035.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "5a73ed23-d5ef-4209-8b86-f39ca5aae99a",
+        "Client_ID": "CLI_03316",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2026-01-13",
+        "Note_Text": "Met with Earl Hall today. Discussed their target retirement in nan. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "5c0c0fe2-16c3-469c-9620-34169f95453f",
+        "Client_ID": "CLI_04627",
+        "Advisor_ID": "ADV_017",
+        "Interaction_Date": "2026-09-06",
+        "Note_Text": "Met with Mrs. Kimberly Hill today. Discussed their target retirement in 2037.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "67cb7444-5ba7-4a10-bb81-81859d73126f",
+        "Client_ID": "CLI_00765",
+        "Advisor_ID": "ADV_004",
+        "Interaction_Date": "2026-07-29",
+        "Note_Text": "Met with Lauren Blackburn today. Discussed their target retirement in 2043.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "ff675c6e-91ac-4c67-bd7d-8474106823aa",
+        "Client_ID": "CLI_03442",
+        "Advisor_ID": "ADV_026",
+        "Interaction_Date": "2026-08-21",
+        "Note_Text": "Met with Dr. Sarah Smith today. Discussed their target retirement in 2033.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "2f4dc8f1-7867-49d8-b322-eb0ae37bf980",
+        "Client_ID": "CLI_00016",
+        "Advisor_ID": "ADV_011",
+        "Interaction_Date": "2025-11-19",
+        "Note_Text": "Met with Michele Carr today. Discussed their target retirement in 2035.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "cc347ffa-c57f-4d79-a143-07c0b2086ae9",
+        "Client_ID": "CLI_00153",
+        "Advisor_ID": "ADV_009",
+        "Interaction_Date": "2026-04-05",
+        "Note_Text": "Met with Patrick Thornton today. Discussed their target retirement in 2051.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "9b37170c-c25a-4590-bd33-3d3f84ee8bdc",
+        "Client_ID": "CLI_01218",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2026-01-16",
+        "Note_Text": "Met with Jeremy Wilson today. Discussed their target retirement in 2038.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "27db4298-c640-4910-815e-16dbef13e5ec",
+        "Client_ID": "CLI_04150",
+        "Advisor_ID": "ADV_035",
+        "Interaction_Date": "2026-06-26",
+        "Note_Text": "Met with David Roth today. Discussed their target retirement in 2049.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "c72df911-a9b4-44b1-a65b-29a6b133e921",
+        "Client_ID": "CLI_04630",
+        "Advisor_ID": "ADV_023",
+        "Interaction_Date": "2026-08-28",
+        "Note_Text": "Met with Sandra Griffin today. Discussed their target retirement in 2046.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "47368097-501a-4dc4-a783-7423af3ac2c8",
+        "Client_ID": "CLI_04449",
+        "Advisor_ID": "ADV_017",
+        "Interaction_Date": "2026-01-01",
+        "Note_Text": "Met with Brittany Rodriguez today. Discussed their target retirement in 2032.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "da93f079-3094-45f3-93d8-d2fc817bb052",
+        "Client_ID": "CLI_01087",
+        "Advisor_ID": "ADV_028",
+        "Interaction_Date": "2026-04-14",
+        "Note_Text": "Met with Tyrone West today. Discussed their target retirement in 2054.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "33dc9f1c-d889-4673-b370-7a4d528eea69",
+        "Client_ID": "CLI_04570",
+        "Advisor_ID": "ADV_042",
+        "Interaction_Date": "2026-01-15",
+        "Note_Text": "Met with Melinda Nguyen today. Discussed their target retirement in 2041.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "a5c09f42-5666-47d5-a03d-5f0f275ccf67",
+        "Client_ID": "CLI_02063",
+        "Advisor_ID": "ADV_038",
+        "Interaction_Date": "2026-08-18",
+        "Note_Text": "Met with Michelle Nguyen today. Discussed their target retirement in 2045.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "688b8166-7966-4c1f-afd5-86198de55065",
+        "Client_ID": "CLI_01011",
+        "Advisor_ID": "ADV_012",
+        "Interaction_Date": "2026-04-14",
+        "Note_Text": "Met with Laura Sweeney today. Discussed their target retirement in 2040.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "d14ccd2a-fec5-4457-ad6b-ff501faf302d",
+        "Client_ID": "CLI_03093",
+        "Advisor_ID": "ADV_019",
+        "Interaction_Date": "2026-02-16",
+        "Note_Text": "Met with Lisa Moore today. Discussed their target retirement in 2051.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "804b52cb-886b-4332-a1f7-cc86c6a618dc",
+        "Client_ID": "CLI_03901",
+        "Advisor_ID": "ADV_020",
+        "Interaction_Date": "2026-10-11",
+        "Note_Text": "Met with James Morrow today. Discussed their target retirement in 2038.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "2aa3a240-0c09-4ae9-9ae9-dabe0ce00585",
+        "Client_ID": "CLI_00745",
+        "Advisor_ID": "ADV_013",
+        "Interaction_Date": "2026-08-03",
+        "Note_Text": "Met with Maria Burke today. Discussed their target retirement in 2032.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "0d85b16c-9e6f-4962-bcc2-9f769eccae4d",
+        "Client_ID": "CLI_00748",
+        "Advisor_ID": "ADV_026",
+        "Interaction_Date": "2026-09-01",
+        "Note_Text": "Met with John Byrd today. Discussed their target retirement in 2040.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "eb692aff-5aa2-47e8-aa8a-9923726070d7",
+        "Client_ID": "CLI_00625",
+        "Advisor_ID": "ADV_028",
+        "Interaction_Date": "2026-04-26",
+        "Note_Text": "Met with Jonathan Winters today. Discussed their target retirement in 2033.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "a40122ea-0d7a-460d-889d-eda9e97781ba",
+        "Client_ID": "CLI_02910",
+        "Advisor_ID": "ADV_016",
+        "Interaction_Date": "2026-03-28",
+        "Note_Text": "Met with Brian Bright today. Discussed their target retirement in 2050.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "5f49fdaf-3dce-480b-bff2-8d062546588e",
+        "Client_ID": "CLI_01767",
+        "Advisor_ID": "ADV_034",
+        "Interaction_Date": "2026-04-28",
+        "Note_Text": "Met with Ana Anderson today. Discussed their target retirement in 2039.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "8444b403-2438-41cb-8c63-5e49712f27d1",
+        "Client_ID": "CLI_02607",
+        "Advisor_ID": "ADV_005",
+        "Interaction_Date": "2026-09-17",
+        "Note_Text": "Met with Erin Mason today. Discussed their target retirement in nan. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "d719ed17-56ea-4baa-a8a0-2df3b84a8dff",
+        "Client_ID": "CLI_03952",
+        "Advisor_ID": "ADV_041",
+        "Interaction_Date": "2026-04-20",
+        "Note_Text": "Met with Jesse Edwards today. Discussed their target retirement in 2047.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "55138624-1b24-4ea2-9120-e4f26f4e6bd3",
+        "Client_ID": "CLI_01348",
+        "Advisor_ID": "ADV_018",
+        "Interaction_Date": "2025-10-22",
+        "Note_Text": "Met with Geoffrey Trujillo today. Discussed their target retirement in 2038.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "917595dd-00f7-4e6c-b147-3cfdcebd4a99",
+        "Client_ID": "CLI_01714",
+        "Advisor_ID": "ADV_020",
+        "Interaction_Date": "2026-07-24",
+        "Note_Text": "Met with Eric Russell today. Discussed their target retirement in 2038.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "152a07ad-7844-4b05-bc56-c92ba0644e36",
+        "Client_ID": "CLI_02618",
+        "Advisor_ID": "ADV_014",
+        "Interaction_Date": "2026-07-06",
+        "Note_Text": "Met with Amanda Hill today. Discussed their target retirement in 2054.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "7e2c97c4-3d1a-4004-88a2-3c292af73d3f",
+        "Client_ID": "CLI_04016",
+        "Advisor_ID": "ADV_014",
+        "Interaction_Date": "2026-05-21",
+        "Note_Text": "Met with Karen Perez today. Discussed their target retirement in 2037.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "7d558003-2679-491b-851e-65a50b7a5795",
+        "Client_ID": "CLI_02850",
+        "Advisor_ID": "ADV_018",
+        "Interaction_Date": "2026-09-30",
+        "Note_Text": "Met with Mason Price today. Discussed their target retirement in 2056.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "d46df2b1-6dc5-4536-a247-d614b95e298b",
+        "Client_ID": "CLI_03108",
+        "Advisor_ID": "ADV_001",
+        "Interaction_Date": "2025-12-31",
+        "Note_Text": "Met with Nicholas Harvey today. Discussed their target retirement in 2033.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "ee89289b-97f6-4354-a2a2-280075fe41ce",
+        "Client_ID": "CLI_02531",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2025-12-31",
+        "Note_Text": "Met with Ryan Guerrero today. Discussed their target retirement in 2051.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "ff331a22-ffd5-4af7-8be4-3a92b006b81c",
+        "Client_ID": "CLI_02231",
+        "Advisor_ID": "ADV_034",
+        "Interaction_Date": "2026-07-17",
+        "Note_Text": "Met with Lisa Jenkins today. Discussed their target retirement in 2034.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "add2124b-400a-42ce-a638-6d0348f9320c",
+        "Client_ID": "CLI_02914",
+        "Advisor_ID": "ADV_047",
+        "Interaction_Date": "2025-11-13",
+        "Note_Text": "Met with Jordan Barnes today. Discussed their target retirement in 2038.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "561b91b7-2772-4637-b67a-84bb3d6f9d0f",
+        "Client_ID": "CLI_01615",
+        "Advisor_ID": "ADV_017",
+        "Interaction_Date": "2026-05-17",
+        "Note_Text": "Met with Vincent Savage today. Discussed their target retirement in 2047.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "c6823cc2-46f1-4106-94e1-e2914065333b",
+        "Client_ID": "CLI_03904",
+        "Advisor_ID": "ADV_014",
+        "Interaction_Date": "2026-06-22",
+        "Note_Text": "Met with Eric Rivera today. Discussed their target retirement in 2041.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "225304fd-23d2-453e-97c9-5f36f3b94436",
+        "Client_ID": "CLI_03780",
+        "Advisor_ID": "ADV_043",
+        "Interaction_Date": "2026-08-08",
+        "Note_Text": "Met with Anthony Nguyen today. Discussed their target retirement in 2052.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "8baa72cf-c42b-4d76-a476-976890f6a12d",
+        "Client_ID": "CLI_03133",
+        "Advisor_ID": "ADV_046",
+        "Interaction_Date": "2026-06-12",
+        "Note_Text": "Met with Rachel Peters today. Discussed their target retirement in 2054.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "da6768f0-bce5-4e0e-9575-0cbefc42fa34",
+        "Client_ID": "CLI_03042",
+        "Advisor_ID": "ADV_047",
+        "Interaction_Date": "2025-10-22",
+        "Note_Text": "Met with Yvonne Macias today. Discussed their target retirement in 2036.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "7ae387a3-f39b-4d85-acc6-50abe81182a3",
+        "Client_ID": "CLI_04508",
+        "Advisor_ID": "ADV_003",
+        "Interaction_Date": "2026-09-13",
+        "Note_Text": "Met with Susan Brady today. Discussed their target retirement in nan. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "cfe3e89f-987b-4389-b088-355abb593d52",
+        "Client_ID": "CLI_03021",
+        "Advisor_ID": "ADV_015",
+        "Interaction_Date": "2026-01-15",
+        "Note_Text": "Met with Kristen Jimenez today. Discussed their target retirement in 2053.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "082f48a6-bdab-401b-b423-adf369aa68e1",
+        "Client_ID": "CLI_04081",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2026-03-03",
+        "Note_Text": "Met with Joseph Bradley today. Discussed their target retirement in 2039.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "3c9ecf80-85ec-42a6-86de-5b0bd75f11d9",
+        "Client_ID": "CLI_00863",
+        "Advisor_ID": "ADV_026",
+        "Interaction_Date": "2026-03-29",
+        "Note_Text": "Met with Anthony Randolph today. Discussed their target retirement in 2035.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "9e52f4df-3a1a-46f3-8b4b-034eddb00d92",
+        "Client_ID": "CLI_03891",
+        "Advisor_ID": "ADV_035",
+        "Interaction_Date": "2025-12-22",
+        "Note_Text": "Met with Michele Ford today. Discussed their target retirement in 2049.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "8e4f6ff4-b6ff-4f88-a2b5-a9959b910c6f",
+        "Client_ID": "CLI_01016",
+        "Advisor_ID": "ADV_046",
+        "Interaction_Date": "2026-04-09",
+        "Note_Text": "Met with Teresa Haynes today. Discussed their target retirement in 2049.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "f7f0deb7-e5cb-432f-aff7-15386a662760",
+        "Client_ID": "CLI_04075",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2026-09-19",
+        "Note_Text": "Met with Sydney Evans today. Discussed their target retirement in 2032.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "257a316b-2ca2-4ba9-9911-4045f8a63474",
+        "Client_ID": "CLI_00548",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2025-12-20",
+        "Note_Text": "Met with Kayla Barnes today. Discussed their target retirement in 2036.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "ea434875-2386-449b-92bf-06e739e5a921",
+        "Client_ID": "CLI_02329",
+        "Advisor_ID": "ADV_030",
+        "Interaction_Date": "2025-12-07",
+        "Note_Text": "Met with Cody Yoder today. Discussed their target retirement in nan. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "777c1295-0e24-4eaf-a32e-f57e358e2fbb",
+        "Client_ID": "CLI_03989",
+        "Advisor_ID": "ADV_017",
+        "Interaction_Date": "2026-09-13",
+        "Note_Text": "Met with Mr. Kristopher Curtis today. Discussed their target retirement in 2033.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "a458c421-b9f1-4d87-85f7-25a35f7ad3fd",
+        "Client_ID": "CLI_01934",
+        "Advisor_ID": "ADV_027",
+        "Interaction_Date": "2026-02-20",
+        "Note_Text": "Met with Kevin Woods today. Discussed their target retirement in 2038.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "225e53f7-0e7d-4203-b9f5-8ebab8e05a9d",
+        "Client_ID": "CLI_04202",
+        "Advisor_ID": "ADV_011",
+        "Interaction_Date": "2026-09-02",
+        "Note_Text": "Met with Susan Sharp today. Discussed their target retirement in 2051.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "78d5d220-0a64-4a17-ad22-408dd7b7b597",
+        "Client_ID": "CLI_03131",
+        "Advisor_ID": "ADV_038",
+        "Interaction_Date": "2026-08-30",
+        "Note_Text": "Met with Jason Clark today. Discussed their target retirement in 2033.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "2c127d31-f3d3-468b-897d-2535908ba2c5",
+        "Client_ID": "CLI_04037",
+        "Advisor_ID": "ADV_048",
+        "Interaction_Date": "2026-05-24",
+        "Note_Text": "Met with Rachel Yang today. Discussed their target retirement in 2053.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "e3c4c3f4-8dda-46c5-b5fc-17590a73ee99",
+        "Client_ID": "CLI_00261",
+        "Advisor_ID": "ADV_028",
+        "Interaction_Date": "2025-11-11",
+        "Note_Text": "Met with Joanna Pacheco today. Discussed their target retirement in 2051.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "aa9038aa-dfb0-4ebf-bc40-6f42f5896b50",
+        "Client_ID": "CLI_04866",
+        "Advisor_ID": "ADV_030",
+        "Interaction_Date": "2025-11-09",
+        "Note_Text": "Met with Crystal Pierce today. Discussed their target retirement in nan. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "4eb21129-dba4-4e38-b754-2da106712832",
+        "Client_ID": "CLI_01434",
+        "Advisor_ID": "ADV_032",
+        "Interaction_Date": "2026-07-27",
+        "Note_Text": "Met with Francisco Johns today. Discussed their target retirement in 2035.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "caef9d1b-1fd1-486f-89ea-d4e3955d2969",
+        "Client_ID": "CLI_00078",
+        "Advisor_ID": "ADV_005",
+        "Interaction_Date": "2026-05-04",
+        "Note_Text": "Met with Sandra King today. Discussed their target retirement in 2041.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    },
+    {
+        "Note_ID": "29f537a2-e1f9-435d-9602-a0f2c3800654",
+        "Client_ID": "CLI_04645",
+        "Advisor_ID": "ADV_033",
+        "Interaction_Date": "2026-09-24",
+        "Note_Text": "Met with Linda Carroll today. Discussed their target retirement in 2049.0. They are concerned about market volatility and mentioned wanting to reduce risk. Also noted a recent job change which might impact their 401k rollover."
+    }
+]
