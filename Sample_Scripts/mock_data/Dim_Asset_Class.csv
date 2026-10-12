@@ -1,0 +1,5 @@
+Asset_Class_ID,Class_Name,Risk_Tier
+AC_01,Equity,High
+AC_02,Fixed Income,Low
+AC_03,Alternative,High
+AC_04,Cash,Low

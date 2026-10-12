@@ -1,21 +1,21 @@
-Fund_ID,Fund_Name,Ticker,Asset_Class,Expense_Ratio
-FND_001,Davis-Herring Fund,OYAS,Alternative,0.66
-FND_002,Barnes Inc Fund,HJDF,Alternative,0.81
-FND_003,"Johnson, Ross and Ross Fund",RVAD,Cash,1.15
-FND_004,Cantrell-Berg Fund,ZSNT,Alternative,0.49
-FND_005,"Reeves, Gomez and Smith Fund",UODL,Fixed Income,1.09
-FND_006,Nelson Inc Fund,CBQJ,Equity,1.37
-FND_007,Nunez and Sons Fund,MYAH,Fixed Income,0.8
-FND_008,Day PLC Fund,QSTF,Equity,0.09
-FND_009,Evans-Mcmillan Fund,TGYW,Cash,1.2
-FND_010,Yoder-Roberts Fund,VMDL,Cash,0.88
-FND_011,Harrison-Jacobson Fund,HXEA,Alternative,0.56
-FND_012,Henderson Ltd Fund,NYQM,Cash,0.52
-FND_013,White-Villegas Fund,RBZE,Cash,1.14
-FND_014,Murphy-Peterson Fund,GJCB,Fixed Income,0.19
-FND_015,Huff Group Fund,NNKM,Equity,0.32
-FND_016,Evans and Sons Fund,CKSJ,Equity,1.07
-FND_017,Griffin LLC Fund,XREX,Fixed Income,0.15
-FND_018,Jackson-Adams Fund,BXVY,Alternative,0.79
-FND_019,Mason Group Fund,KQCK,Alternative,1.46
-FND_020,Martin LLC Fund,XIXV,Alternative,0.78
+Fund_ID,Fund_Name,Ticker,Asset_Class_ID,Expense_Ratio
+FND_001,Mitchell-Clark Fund,CUKY,AC_03,0.83
+FND_002,"Bennett, Klein and Cross Fund",DPKQ,AC_02,0.56
+FND_003,Johnson-Jackson Fund,DIGD,AC_01,0.16
+FND_004,"Gillespie, Turner and Ford Fund",DWCQ,AC_01,0.27
+FND_005,"Tran, Mendez and Fry Fund",PXRH,AC_01,1.49
+FND_006,Jenkins-Young Fund,MSGX,AC_03,1.33
+FND_007,Shaffer Group Fund,PIUG,AC_04,1.04
+FND_008,Carlson-James Fund,BYZG,AC_03,1.13
+FND_009,Riley-Wilkins Fund,HIEW,AC_04,0.54
+FND_010,"Lambert, Goodman and Richards Fund",SNXQ,AC_03,1.31
+FND_011,"Lewis, Wright and Powers Fund",MAVA,AC_04,0.53
+FND_012,Romero Ltd Fund,BGFS,AC_03,0.64
+FND_013,"Mckenzie, Hill and Garrett Fund",MGPU,AC_04,0.97
+FND_014,Hensley-Daniels Fund,XQIE,AC_04,1.31
+FND_015,Long-Ortega Fund,APKO,AC_02,0.9
+FND_016,Powell PLC Fund,ODWD,AC_01,1.02
+FND_017,Bennett-Brown Fund,TPLS,AC_01,1.33
+FND_018,Weeks PLC Fund,EWLH,AC_01,1.0
+FND_019,George-Morales Fund,CAOQ,AC_01,0.36
+FND_020,Salinas-Rogers Fund,PIOE,AC_04,0.74
