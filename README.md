@@ -15,4 +15,6 @@ Sample Scripts - SQL/Python Scripts to execute if you prefer not to use the UI t
 1. Create Git Repo
 2. Generate Git Repo Personal Access Token (PAT)
 3. Create Git Workspace in Snowflake and Connect to your Repo
-4. Create ADVISOR_DB in Snowflake and RAW_DATA schema in ADVISOR_DB 
+4. Create ADVISOR_DB in Snowflake and RAW_DATA schema in ADVISOR_DB
+5. Execute 2.Generate_Mock_Data.ipynb to create all 13 needed sample data files within the mock_data folder in Sample_Scripts OR use the data files that are already present.
+6. Create the stage for the raw data within ADVISOR_DB.RAW_DATA--Select Server side encryption so that we can use Cortex AI Functions later.
